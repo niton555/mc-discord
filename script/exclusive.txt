@@ -1,0 +1,14 @@
+Server Backup started!
+Server backup done
+Starting minecraft server version
+Loading properties
+Default game type
+Preparing level world
+Starting remote control listener
+Automatic saving is now enabled
+Automatic saving is now disabled
+Saved the game
+For help
+type help
+level world
+Rcon:
